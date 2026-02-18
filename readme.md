@@ -1,2 +1,2 @@
-#codealphaproject 
-#Build a hotel reservations system where users can search for available rooms.
+#Build a hotel reservations system where users can search for available rooms,designing user-friendly interfaces for seamless booking experiences,
+showcasing available rooms, detailed room descriptions, and transparent pricing.

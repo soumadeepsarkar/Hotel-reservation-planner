@@ -174,7 +174,7 @@ public class hotelreservationplanner{
                     break;
                 case "d":
                     exit = true;
-                    System.out.println("Thank you !!");
+                    System.out.println("Thanks for visit 🙏🏻");
                     break;
 
                 default:
